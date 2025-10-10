@@ -16,3 +16,12 @@ console.log(Math.round(7.6));//8
 console.log(Math.floor(4.9));// lower value 4
 console.log(Math.max(3,5,1,8,9,4));//9
 console.log(Math.min(2,0,7,5,3,1));//0
+console.log(Math.pow(2,4));//16
+console.log(Math.log10(100));//2
+console.log(Math.sqrt(25));//5
+console.log(Math.exp(5));
+console.log(Math.random());
+console.log((Math.random()*10)+1);
+console.log(Math.atan(45));
+console.log(Math.tan(90));
+console.log(Math.floor(Math.random()*10+1));
