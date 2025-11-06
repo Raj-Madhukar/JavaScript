@@ -8,7 +8,7 @@ console.log(3+4); // use code readability
 console.log(typeof name) // string
 console.log(typeof age) //number
 console.log(typeof undefined) // undefined
-console.log(typeof null) //object
+console.log(typeof null) //object hence the famous interviewer question null is an object
  // number , string , boolean , bigint, null , undefined , symbol=>unique value, object
 
 
